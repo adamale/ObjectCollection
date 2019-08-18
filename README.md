@@ -11,7 +11,7 @@ composer require adamale/object-collection
 ```
 
 ## Usage
-See the [example.php](https://github.com/adamale/ObjectCollection/docs/example.php) file in docs.
+See the [example.php](https://github.com/adamale/ObjectCollection/blob/master/docs/example.php) file in docs.
 
 ## About
 

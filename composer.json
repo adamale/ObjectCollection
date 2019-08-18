@@ -1,0 +1,27 @@
+{
+    "name": "adamale/object-collection",
+    "description": "Collection class behaving like an array with item class validation.",
+    "type": "library",
+    "keywords": ["collection", "array"],
+    "homepage": "https://github.com/adamale/ObjectCollection",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Aleksak",
+            "email": "kontakt@adamaleksak.pl",
+            "homepage": "https://adamaleksak.pl",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ObjectCollection\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
