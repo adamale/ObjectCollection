@@ -1,4 +1,4 @@
-# NBPFetch [![Build Status](https://travis-ci.org/adamale/ObjectCollection.svg?branch=master)](https://travis-ci.org/adamale/ObjectCollection)
+# ObjectCollection [![Build Status](https://travis-ci.org/adamale/ObjectCollection.svg?branch=master)](https://travis-ci.org/adamale/ObjectCollection)
 PHP library that allows you to use collection class as an array (object storage) with validating object class during the insertion.
 
 ## Requirements
